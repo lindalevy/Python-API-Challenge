@@ -130,3 +130,5 @@ dmypy.json
 
 #add config file
 api_keys.py
+g_key.py
+gkey.py
